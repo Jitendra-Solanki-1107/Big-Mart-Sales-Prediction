@@ -12,7 +12,7 @@ We have train (8523) and test (5681) data set, train data set has both input and
 
 
 Variable	| Description
- | ---
+ --- | ---
 tem_Identifier	|  Unique product ID
  --- | ---
 Item_Weight	|  Weight of product
